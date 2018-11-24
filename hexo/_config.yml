@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Brad Rhodes' Randomness
+title: randomness.
 subtitle: 
 description: My random thoughts on software development, architecture and craftsmanship.
 keywords:
 author: Brad Rhodes
-language:
+language: en
 timezone:
 
 # URL
